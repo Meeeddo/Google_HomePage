@@ -1,0 +1,306 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+	
+}
+
+h1{
+	padding-left: 390px;
+	margin: 0px;
+	font-size: 6em;
+	font-family: Century Gothic;
+	
+}
+
+.google{
+	position: relative;
+	bottom: 20px;	
+}
+
+.blue{
+	color: #4485f3;
+	
+}
+
+.magnifier{
+	position: relative;
+	right: 217px;
+	top: 90px;
+	background-color: green;
+	margin-left: 100%;
+}
+
+
+.snap{
+	position: relative;
+	left: 310px;
+	top: 63px;
+	background-color: green;
+	margin-left: 100%;
+}
+
+.voiceLogo{
+	position: relative;
+	left: 273px;
+	top: 38px;
+	background-color: green;
+	margin-left: 100%;
+}
+
+.red{
+	color: #eb4134;
+}
+
+.yellow{
+	color: #f8bc04;
+}
+
+.green{
+	color: #34a853;
+}
+
+ul{
+	position: relative;
+	top: 10px;
+	right: 15px;
+}
+
+section ul{
+	padding-top: 15px;
+	padding-left:80%;
+	display: flex;	
+}
+
+section header ul li{
+	list-style: none;
+	margin-left: 15px;	
+}
+
+a{
+	text-decoration: none;
+	color: #000;
+}
+
+h1{
+	padding-top: 2px;;
+}
+
+section header ul li button{
+	background: hsl(218, 84%, 60%);
+	border: none;
+	position: relative;
+	bottom: 8px;
+	outline: none;
+	padding: 8px 15px;
+	color: #fff;
+	font-size: 15px;
+	font-weight: 550;
+	border-radius: 3px;
+	cursor: pointer;
+}
+
+.bigButton1{
+	position: relative;
+	left: 290px;
+	top: 30px;
+	cursor: pointer;
+	padding: 15px 20px;
+	padding-left: auto;
+	border: none;
+	margin-left: auto;
+	padding-bottom: 7px;
+	padding-top: 7px;
+		
+}
+
+.bigButton2{
+	position: relative;
+	left: 440px;
+	cursor: pointer;
+	padding: 15px 20px;
+	
+	border: none;
+	margin-left: auto;
+	padding-bottom: 7px;
+	padding-top: 7px;
+		
+}
+
+.section{
+	position: relative;
+	top: 80px;
+}
+
+section .main{
+	position: relative;
+	width: 580px;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+
+section .main .searchBox{
+	width: 100%;
+	position: relative;
+	bottom: 60px;
+	text-align: center;	
+}
+
+section .main .searchBox .search{
+	position: static;
+	margin-left: 60%;
+	width: 100%;
+	padding-left: 45px;
+	padding-right: 80px;
+	height: 45px;
+	border: 1px solid #ccc;
+	border-radius: 30px;
+	font-size: 16px;
+}
+
+.imgIcon{
+	width: 30px;
+	padding-top: 90px;
+	display: flex;	
+}
+
+h5{
+	padding-left: 400px;
+}
+
+.hausa{
+	padding: 15px;
+	font-family: Verdana;
+	font-weight: lighter;
+	color: rgb(58, 78, 164);
+	font-size: small;
+}
+
+.igbo{
+	padding: 15px;
+	font-family: Verdana;
+	font-weight: lighter;
+	color: rgb(58, 78, 164);
+	font-size: small;
+}
+
+.yoruba{
+	padding: 15px;
+	font-family: Verdana;
+	font-weight: lighter;
+	color: rgb(58, 78, 164);
+	font-size: small;
+}
+
+.pidgin{
+	padding: 15px;
+	font-family: Verdana;
+	font-weight: lighter;
+	color: rgb(58, 78, 164);
+	font-size: small;
+}
+
+.offered{
+	position: relative;
+	left: 290px;
+	bottom: 30px;
+	font-family: Verdana;
+	font-weight: lighter;
+	color: grey;
+	font-size: small;
+}
+
+.offer{
+	padding-left: 95px;
+	padding-bottom: 5px;
+}
+
+
+.footer{
+	margin-top: 195px;
+	padding: 15px;
+	align-content: center;
+	background-color: rgba(227, 226, 226, 0.452);
+	padding-left: 20px;
+	font-family: Arial;
+	font-size: small;
+}
+
+.row1{
+	background-color: rgba(227, 226, 226, 0.452);
+	margin-top: 0.7px;
+	padding: 10px;
+	align-items: normal;
+}
+
+.line{
+	background-color: rgb(214, 212, 212);
+	height: 0.06px;
+}
+
+.about{
+	padding: 15px;
+	font-weight: lighter;
+	font-family: Arial;
+	font-size: small;
+}
+
+.advert{
+	padding: 15px;
+	font-weight: lighter;
+	font-family: Arial;
+	font-size: small;
+}
+
+.business{
+	padding: 15px;
+	font-weight: lighter;
+	font-family: Arial;
+	font-size: small;
+}
+
+.how{
+	padding: 15px;
+	font-weight: lighter;
+	font-family: Arial;
+	font-size: small;
+}
+
+.climate{
+	padding-left: 10px;
+	font-weight: lighter;
+	font-family: Arial;
+	font-size: small;
+}
+
+.privacy{
+	padding-left: 200px;
+	font-weight: lighter;
+	font-family: Arial;
+	font-size: small;
+}
+
+.terms{
+	padding-left: 45px;
+	font-weight: lighter;
+	font-family: Arial;
+	font-size: small;
+}
+
+.settings{
+	padding-left: 40px;
+	font-weight: lighter;
+	font-family: Arial;
+	font-size: small;
+}
+
+.leaf{
+	padding-left: 150px;
+	width: 165px;
+	
+}
+
+
+
+
